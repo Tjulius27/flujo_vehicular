@@ -1,0 +1,7 @@
+Modelo,MAE,RMSE,MAPE (%),Aciertos de nivel (%)
+Media móvil,33.58,43.44,10.11,75.0
+Método estacional ingenuo,15.39,15.82,4.76,75.0
+Holt-Winters,6.22,8.21,1.9,100.0
+SARIMA,4.73,5.39,1.44,100.0
+Random Forest,8.51,12.3,2.52,91.67
+Red neuronal multicapa,8.33,10.09,2.66,91.67
